@@ -7,10 +7,10 @@
         "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Ignite-lab/main/masterdoc/01.md",
         "Order": 1
       },
-			{
-				"RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Ignite-lab/main/masterdoc/03.md",
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Ignite-lab/main/masterdoc/03.md",
         "Order": 3
-			}
+      }
     ]
   }
 ]
